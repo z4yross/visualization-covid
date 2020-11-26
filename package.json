@@ -1,0 +1,30 @@
+{
+  "name": "visualization",
+  "version": "1.0.0",
+  "description": "maps visualization covid air quality analysis ",
+  "main": "index.js",
+  "dependencies": {
+    "p5-manager": "^0.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z4yross/visualization-covid.git"
+  },
+  "keywords": [
+    "covid",
+    "visualization",
+    "air",
+    "quality",
+    "analysis"
+  ],
+  "author": "z4yross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z4yross/visualization-covid/issues"
+  },
+  "homepage": "https://github.com/z4yross/visualization-covid#readme"
+}
